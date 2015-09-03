@@ -1,0 +1,16 @@
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\bin\Debug\ChatRoomAsync_Server.exe.config
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\bin\Debug\ChatRoomAsync_Server.exe
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\bin\Debug\ChatRoomAsync_Server.pdb
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.csprojResolveAssemblyReference.cache
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.Properties.Resources.resources
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.csproj.GenerateResource.Cache
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.exe
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.pdb
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\bin\Debug\ChatRoomAsync_Server.exe.config
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.exe
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.pdb
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\bin\Debug\ChatRoomAsync_Server.exe
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\bin\Debug\ChatRoomAsync_Server.pdb
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.Properties.Resources.resources
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.csproj.GenerateResource.Cache
+C:\Users\jeff\Desktop\多人聊天室\ChatRoomAsync(Jeff_非同步版)\ChatRoomAsync\ChatRoomAsync_Server\obj\Debug\ChatRoomAsync_Server.ServerForm.resources
